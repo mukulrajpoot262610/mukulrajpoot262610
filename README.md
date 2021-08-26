@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukul-rajpoot-262610/)](https://www.linkedin.com/in/mukul-rajpoot-262610/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukulrajpoot262610@gmail.com)](mailto:mukulrajpoot262610@gmail.com)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmukulrajpoot2.netlify.app)
+![Website](https://img.shields.io/website?up_message=Portfolio&url=https://mukulrajpoot2.netlify.app/)
 
 My name is Mukul Rajpoot, And I am Full-stack Developer based in India.
 
