@@ -6,6 +6,9 @@
 My name is Mukul Rajpoot, And I am Full-stack Developer based in India.
 My Website: https://mukulrajpoot.vercel.app
 
+[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610)](https://github.com/mukulrajpoot262610/github-readme-stats)
+
+
 ## Weapons ⚔
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
