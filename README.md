@@ -6,7 +6,7 @@
 My name is Mukul Rajpoot, And I am Full-stack Developer based in India.
 My Website: https://mukulrajpoot.vercel.app
 
-[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true)](https://github.com/mukulrajpoot262610/github-readme-stats)
+[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true)](https://github.com/mukulrajpoot262610/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulrajpoot262610)](https://github.com/mukulrajpoot262610/github-readme-stats)
 
