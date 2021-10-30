@@ -8,7 +8,7 @@ My Website: https://mukulrajpoot.vercel.app
 
 [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true)](https://github.com/mukulrajpoot262610/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulrajpoot262610)](https://github.com/mukulrajpoot262610/github-readme-stats)
+<a href="https://app.daily.dev/mukul262610"><img src="https://api.daily.dev/devcards/fc791f49f76f4383b2abd236e9921d10.png?r=ydh" width="400" alt="Mukul Rajpoot's Dev Card"/></a>
 
 ## Weapons ⚔
 
