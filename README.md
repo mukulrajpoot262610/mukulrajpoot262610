@@ -71,5 +71,3 @@
    <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/MukulRa52680412"><img alt="MongoDB" src ="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-
-<img src="https://media.giphy.com/media/4rdh8gpiqiDm0/giphy.gif" width="248" />
