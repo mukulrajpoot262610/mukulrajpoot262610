@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="328">
-</div>
+
 
 <h2 align="center">
   Welcome to Mukul Rajpoot's profile!
