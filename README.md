@@ -65,7 +65,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<h1>Social <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
+<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
 
    <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
