@@ -16,7 +16,7 @@
 <ul>
   <li>I am Mukul Rajpoot, a 20 year old guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
-  <li>Currently, scratching my head in learning blockchain 😅</li>
+  <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
   <li>Check out my website: https://mukulrajpoot.vercel.app</li>
