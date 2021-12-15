@@ -14,7 +14,7 @@
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li>I am Mukul Rajpoot, a 20 year old guy who loves💖 to code</li>
+  <li>I am Mukul Rajpoot, a guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
   <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
