@@ -19,7 +19,7 @@
   <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
-  <li>Check out my website: https://mukulrajpoot.vercel.app</li>
+  <li>Check out my website: https://mukulrajpoot.com </li>
 </ul>
 
 
@@ -68,4 +68,5 @@
 
    <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://twitter.com/MukulRa52680412"><img alt="MongoDB" src ="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   <a href="https://twitter.com/MukulRa52680412"><img alt="MongoDB" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   <a href="https://mukulrajpoot.com/"> <img alt="MongoDB" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
