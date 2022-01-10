@@ -16,7 +16,7 @@
 <ul>
   <li>I am Mukul Rajpoot, a guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
-  <li>Currently, scratching my head in learning DevOps 😅</li>
+  <li>Currently, scratching my head in learning DevOps and web3 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
   <li>Check out my website: https://mukulrajpoot.com </li>
