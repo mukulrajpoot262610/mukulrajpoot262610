@@ -27,17 +27,7 @@
 |<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
 |---|---|
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   20 hrs 25 mins  ████████████████████████░   95.88 % 
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-TypeScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-<!--END_SECTION:waka-->
-
-<img target="new" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukulrajpoot262610&theme=tokyonight&show_icons=true&layout=compact" />
+[![Mukul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mukulrajpoot262610)](https://mukulrajpoot.com)
 
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
