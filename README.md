@@ -37,6 +37,8 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img target="new" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukulrajpoot262610&theme=tokyonight&show_icons=true&layout=compact" />
+
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
