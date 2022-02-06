@@ -27,10 +27,8 @@
 |<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
 |---|---|
 
-| <!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->|
-|--|
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
