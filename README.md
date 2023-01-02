@@ -20,11 +20,12 @@
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li>I am Mukul Rajpoot, a guy who loves💖 to code</li>
-  <li>I am a freelance full-stack developer 🖥️</li>
-  <li>Currently, scratching my head in learning DevOps and web3 😅</li>
+  <li>I am Mukul Rajpoot, a guy who loves❤️ to code</li>
+  <li>Currently employed to Stratzy as a SDE Intern 🧑‍💻</li>
+  <li>I am also a freelance full-stack developer 🖥️</li>
+  <li>At present, scratching my head in learning Unreal Engine 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
-  <li><b>Marital status:</b> Married with Next.js 💖</li>
+  <li><b>Marital status:</b> Married with Next.js ❤️</li>
   <li>Check out my website: https://mukulrajpoot.com </li>
 </ul>
 
