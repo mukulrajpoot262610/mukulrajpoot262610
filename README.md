@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mukulrajpoot262610&label=Profile%20views&color=0e75b6&style=flat" alt="mukulrajpoot262610" /> 
+</p>
+
 <p align="right">
 <a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
   <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
