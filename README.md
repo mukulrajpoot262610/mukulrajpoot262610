@@ -25,9 +25,8 @@
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
   <li>I am Mukul Rajpoot, a guy who loves❤️ to code</li>
-  <li>Currently employed to Stratzy as a SDE Intern 🧑‍💻</li>
-  <li>I am also a freelance full-stack developer 🖥️</li>
-  <li>At present, scratching my head in learning Unreal Engine 😅</li>
+  <li>I am a freelance full-stack developer 🖥️</li>
+  <li>At present, scratching my head in learning Go 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js ❤️</li>
   <li>Check out my website: https://mukulrajpoot.com </li>
@@ -54,21 +53,16 @@
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></a>
-  <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>  
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="#"><img alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
   <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-  <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -77,7 +71,6 @@
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Linode" src ="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"></a>
     <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -86,6 +79,6 @@
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
 
    <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/mukulrajpoot262610/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/mukul_eth"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://mukulrajpoot.com/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
