@@ -5,80 +5,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mukulrajpoot262610&label=Profile%20views&color=0e75b6&style=flat" alt="mukulrajpoot262610" /> 
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/mukul_eth?style=social)](https://twitter.com/intent/follow?screen_name=mukul_eth)
+[![GitHub followers](https://img.shields.io/github/followers/mukulrajpoot262610?label=Follow&style=social)](https://github.com/mukulrajpoot262610/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-mukulrajpoot262610@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mukulrajpoot262610@gmail.com)](mailto:mukulrajpoot262610@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mukulrajpoot262610/)](https://www.linkedin.com/in/mukulrajpoot262610/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?style=social&logo=Google-Chrome&logoColor=black&link=https://mukulrajpoot.com/)](https://mukulrajpoot.com/)
 
-<p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
-  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
-</a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mukulrajpoot262610"/></a>
-  <a href="https://github.com/mukulrajpoot262610?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+[![Code Time](https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg)](https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/mukulrajpoot262610/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=mukulrajpoot262610&color=red&style=flat)](https://komarev.com/ghpvc/?username=mukulrajpoot262610)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
-<h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
-<ul>
-  <li>I am Mukul Rajpoot, a guy who loves❤️ to code</li>
-  <li>I am a freelance full-stack developer 🖥️</li>
-  <li>At present, scratching my head in learning Go 😅</li>
-  <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
-  <li><b>Marital status:</b> Married with Next.js ❤️</li>
-  <li>Check out my website: https://mukulrajpoot.com </li>
-</ul>
+
+![image](https://github.com/mukulrajpoot262610/mukulrajpoot262610/assets/73209159/02ff749b-8ab8-4bac-b61f-326252056711)
+
+- 👨🏽‍💻 I’m currently working on Microservices;
+- 🌱 I’m currently learning Docker and Continuous Integration; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Married to Javascript; and C++ is my secret crush;
+- 📫 How to reach me: mukulrajpoot262610@gmail.com;
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
 |<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulrajpoot262610" />
 |---|---|
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mukulrajpoot262610&theme=onedark" alt="mukulrajpoot262610" /> 
-  </a>
-</p>
-
-<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
-
-### 👨‍💻 Programming languages
-
-<p> 
-  <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>  
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-    <a href="#"><img alt="Linode" src ="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"></a>
-    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-</p>
-
-<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
-
-   <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/mukulrajpoot262610/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://twitter.com/mukul_eth"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-   <a href="https://mukulrajpoot.com/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
